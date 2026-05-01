@@ -1,7 +1,7 @@
 ## Olá, sou Caio Fernando 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiofernandofs&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiofernandofs&layout=compact&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact)
 
 <p align="">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
