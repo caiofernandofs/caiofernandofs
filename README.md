@@ -13,6 +13,3 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/caiofernandofs/caiofernandofs/output/github-contribution-grid-snake.svg" width="100%">
 </p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/caiofernandofs/caiofernandofs/output/github-contribution-grid-snake.svg">
-</p>
