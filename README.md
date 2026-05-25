@@ -32,6 +32,7 @@
 
 </p>
 
+---
 
 # 🔥 GitHub Streak
 
@@ -45,6 +46,7 @@ src="https://streak-stats.demolab.com?user=caiofernandofs&theme=tokyonight&hide_
   <img src="https://raw.githubusercontent.com/caiofernandofs/caiofernandofs/output/github-contribution-grid-snake.svg" width="100%">
 </p>
 
+---
 
 # 🌐 Redes Sociais
 
@@ -69,15 +71,6 @@ src="https://streak-stats.demolab.com?user=caiofernandofs&theme=tokyonight&hide_
 ✔ Aprender novas tecnologias  
 ✔ Trabalhar com desenvolvimento web  
 ✔ Construir experiências digitais incríveis
-
----
-
-# 📌 Projetos em Destaque
-
-🚀 Landing Pages Responsivas  
-💻 Projetos com JavaScript  
-🎨 Interfaces modernas  
-📚 Estudos e experimentos Front-End
 
 ---
 
