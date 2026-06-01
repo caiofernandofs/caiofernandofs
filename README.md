@@ -66,10 +66,9 @@ src="https://streak-stats.demolab.com?user=caiofernandofs&theme=tokyonight&hide_
 
 # 🚀 Objetivos
 
-✔ Evoluir como Desenvolvedor Front-End  
+✔ Evoluir como Desenvolvedor Full Stack 
 ✔ Criar projetos modernos  
-✔ Aprender novas tecnologias  
-✔ Trabalhar com desenvolvimento web  
+✔ Aprender novas tecnologias   
 ✔ Construir experiências digitais incríveis
 
 ---
